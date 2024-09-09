@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "Patrullajes_Cusco": "file:",
     "react": "18.3.1",
-    "react-native": "0.75.2"
+    "react-native": "0.75.2",
+    "react-native-vector-icons": "^10.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
